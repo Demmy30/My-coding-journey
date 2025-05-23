@@ -1,0 +1,9 @@
+h1{
+    color: brown;
+    font-style: italic;
+    text-align: center;
+}
+p{
+    background-color: blueviolet;
+     padding: left 20px; 
+}
